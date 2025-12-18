@@ -1,4 +1,5 @@
-Ultra-compact Qwiic-based breakout for the Iridium 9603/9603N satellite modem (e.g., https://www.sparkfun.com/qwiic-iridium-9603n.html). Designed for space-constrained deployments, this unit provides I²C control, power regulation and modem support circuitry in a minimal footprint—ideal for embedded field systems.
+Ultra-compact Qwiic (I²C) breakout for the Iridium 9603/9603N satellite modem (e.g., https://www.sparkfun.com/qwiic-iridium-9603n.html
+). Built for space-constrained deployments, it integrates I²C control, power regulation, and modem support circuitry in a footprint only slightly larger than the 9603N itself—ideal for embedded field systems.
 
 See the SparkX thread: https://community.sparkfun.com/t/qwiic-iridium-9603n-bom-firmware/67234/8
 
